@@ -116,6 +116,7 @@ h1 {
   background-color: lightseagreen;
   width: 30vw;
   height:30vh;
+  padding:10px;
   display: flex;
   justify-content: center;
   align-items: center;
