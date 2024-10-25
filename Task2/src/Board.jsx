@@ -9,7 +9,7 @@ class Board extends React.Component {
         this.state = {
             gameOver: false,
             win: false,
-            board: createBoard(25, 7)
+            board: createBoard(25, 1)
         }
     }
 handleCellClick = (index)=>{
